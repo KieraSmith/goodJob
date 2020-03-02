@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+h3 {
+    font-family: 'Questrial';
+}
+
+
+.event {
+    padding: 0px 200px;
+    text-align: right;
+    float: right;
+}
+
+/* This makes the line that seperates the hour longer (in the tr tag)*/
+
+tr {
+    display: block;
+    font-family: 'Questrial';
+    text-align: right;
+
+}
+
+heading {
+    padding: 20px;
+    font-family: 'Questrial';
+}
+
+.row {
+    margin-top: 30px;
+}
+
+p {
+    font-family: 'Questrial';
+    display: inline;
+}
+
+#controls {
+    margin-top: 50px;
+}
+
+.material-icons {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+}
+
+.control_detail {
+    float: right;
+}
+
+#current_page {
+    color: lightslategrey;
+}
+
+.task {
+    padding-left: 20px;
+}
