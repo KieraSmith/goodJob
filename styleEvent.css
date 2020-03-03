@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+h3 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Questrial';
+}
+
+h6 {
+    padding-bottom: 5px;
+    font-family: 'Questrial';
+    color: #039be5;
+}
