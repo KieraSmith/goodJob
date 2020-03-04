@@ -6,12 +6,20 @@ h3 {
     font-family: 'Questrial';
 }
 
+h5 {
+    font-family: 'Questrial';
+    color: #039be5;
+}
+
 h6 {
     padding-bottom: 5px;
     font-family: 'Questrial';
     color: #039be5;
 }
 
+p {
+    color: #039be5;
+}
 
 button {
     padding-bottom: 20px;
