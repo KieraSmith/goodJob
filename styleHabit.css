@@ -4,11 +4,12 @@ h3 {
     text-align: center;
     padding-top: 50px;
     font-family: 'Questrial';
+    color: #ffab40;
 }
 
 h5 {
     font-family: 'Questrial';
-    color: #039be5;
+    color: #ffab40;
 }
 
 h6 {
@@ -27,4 +28,9 @@ button {
 
 #submit {
     padding-top: 20px;
+}
+
+[type="radio"]:checked + label:after,
+[type="radio"].with-gap:checked + label:after {
+    background-color: #ffab40;
 }

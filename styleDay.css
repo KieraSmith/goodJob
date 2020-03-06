@@ -49,9 +49,13 @@ p {
 }
 
 #current_page {
-    color: lightslategrey;
+    color: #ffab40;
 }
 
 .task {
     padding-left: 20px;
+}
+
+#logIn {
+    color: #ffab40;
 }

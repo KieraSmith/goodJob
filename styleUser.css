@@ -21,3 +21,16 @@ button {
 #submit {
     padding-top: 20px;
 }
+
+#createAccount {
+    margin-top: 30px;
+}
+
+.OG {
+    color: #ffab40;
+}
+
+/* label color */
+.input-field label {
+    color: #039be5;
+}
