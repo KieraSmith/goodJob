@@ -4,6 +4,9 @@ h3 {
     font-family: 'Questrial';
 }
 
+#modelDay {
+    float: left;
+}
 
 .event {
     padding: 0px 200px;

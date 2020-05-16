@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
+
 h3 {
     text-align: center;
     padding-top: 50px;
     font-family: 'Questrial';
     color: #ffab40;
+}
+
+h4 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Questrial';
+    color: #000000;
 }
 
 h6 {
@@ -33,4 +41,9 @@ button {
 /* label color */
 .input-field label {
     color: #039be5;
+}
+
+#messageEnter {
+    text-align: center;
+    font-size: 15px;
 }
